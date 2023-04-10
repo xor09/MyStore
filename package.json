@@ -2,7 +2,7 @@
   "name": "mystore",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://xor09.github.io",
+  "homepage": "https://xor09.github.io/MyStore",
   "dependencies": {
     "@headlessui/react": "^1.7.13",
     "@heroicons/react": "^2.0.17",
